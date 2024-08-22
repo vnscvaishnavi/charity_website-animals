@@ -1,4 +1,4 @@
 # charity_website-animals
 This is a charity website for animals made using HTML, CSS, JS.
 <br>
-Author - Vaishnavi Srivastava
+Author - Vaishnavi Srivastava (vnsc)
